@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hey there 👋
 
+My name is Boris, and I'm a 17 old programmer.
+
+![](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VISITS)
 <!--
-**borisnliscool/borisnliscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
