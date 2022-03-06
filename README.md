@@ -5,7 +5,10 @@ Bellow you can see some of my projects that I'm working/worked on.
 
 If you'd like to reach me, you can email me at `hello@borisnl.nl`, or find more details on my [website](https://borisnl.nl/).
 
+[![Boris' GitHub stats](https://github-readme-stats.vercel.app/api?username=borisnliscool&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VISITS)
+
 <!--
 Here are some ideas to get you started:
 
