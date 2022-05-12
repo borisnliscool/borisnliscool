@@ -7,4 +7,4 @@ If you'd like to reach me, you can email me at [hello@borisnl.nl](mailto:hello@b
 
 ![](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VISITS)
 
-[![Boris' GitHub stats](https://github-readme-stats.vercel.app/api?username=borisnliscool&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=borisnliscool&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
