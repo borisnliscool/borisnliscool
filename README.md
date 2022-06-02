@@ -1,4 +1,4 @@
-### Hey there 👋
+## Hey there 👋
 
 My name is Boris, I'm a 17 old programmer and software development student in The Netherlands.<br>
 Bellow you can see some of my public projects that I'm working/have worked on!
@@ -7,4 +7,4 @@ If you'd like to reach me, you can email me at [hello@borisnl.nl](mailto:hello@b
 
 ![](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VISITS)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=borisnliscool&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=borisnliscool&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
