@@ -7,6 +7,6 @@ If you'd like to reach me, you can email me at [hello@borisnl.nl](mailto:hello@b
 
 ![Profile Views](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=borisnliscool&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=borisnliscool&show_icons=true&theme=blueberry&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borisnliscool&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borisnliscool&layout=compact&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
