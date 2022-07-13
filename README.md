@@ -1,4 +1,4 @@
-## Hey there 👋
+### Hi 👋
 
 My name is Boris, I'm a 18 old programmer and software development student in The Netherlands.<br>
 Bellow you can see some of my public projects that I've been creating over the past years!
