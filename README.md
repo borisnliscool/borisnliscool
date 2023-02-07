@@ -1,11 +1,11 @@
 ### Hi 👋
 
-My name is Boris, I'm a 18 old programmer and software development student in The Netherlands.<br>
-Bellow you can see some of my public projects that I've been creating over the past years!
+Hi, I'm Boris, an 18-year-old software developer and student in the Netherlands. <br>
+Take a look at my [public repositories](https://github.com/borisnliscool?tab=repositories) to see some of the projects I've been working on.
 
 ✨ Currrently working on my FiveM server: [Abundant](https://abnt.nl)
 
-If you'd like to reach me, you can email me at [hello@borisnl.nl](mailto:hello@borisnl.nl), find me on twitter [@borisnliscool](https://twitter.com/borisnliscool) or find more details on my website [borisnl.nl](https://borisnl.nl/)
+If you'd like to reach me, you can email me at [hello@borisnl.nl](mailto:hello@borisnl.nl) or find more details on my website [borisnl.nl](https://borisnl.nl/).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
