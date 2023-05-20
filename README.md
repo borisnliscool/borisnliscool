@@ -5,7 +5,7 @@ Take a look at my [public repositories](https://github.com/borisnliscool?tab=rep
 
 ✨ Currrently working on my FiveM server: [Abundant](https://abnt.nl)
 
-If you'd like to reach me, you can email me at [hello@borisnl.nl](mailto:hello@borisnl.nl) or find more details on my website [borisnl.nl](https://borisnl.nl/).
+If you'd like to reach me, you can email me at [hello@borisnl.nl](mailto:hello@borisnl.nl) or find more details on my website [borisnl.nl](https://boris.foo/).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
