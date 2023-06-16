@@ -7,6 +7,6 @@ Check out my website [boris.foo](https://boris.foo/)<br>
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=borisnliscool&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=borisnliscool&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Boris' github stats" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
