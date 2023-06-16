@@ -7,6 +7,9 @@ Check out my website [boris.foo](https://boris.foo/)<br>
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=borisnliscool&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Boris' github stats" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=borisnliscool&theme=highcontrast&background=30%2CE96443%2C904E95&border=FFFFFF&sideLabels=FFFFFF&dates=EFEFEF&stroke=FFFFFF77)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borisnliscool&count_private=true&hide=contribs&hide_border=true&hide_title=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats/)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=borisnliscool&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
