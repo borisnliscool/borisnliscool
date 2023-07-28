@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Hi, I'm Boris, a fullstack developer in the Netherlands. <br>
+I'm Boris, a fullstack developer in the Netherlands. <br>
 Take a look at my [public repositories](https://github.com/borisnliscool?tab=repositories) to see some of the projects I've been working on.
 
 Check out my website [boris.foo](https://boris.foo/)<br>
