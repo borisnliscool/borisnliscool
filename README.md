@@ -1,9 +1,9 @@
 ### Hi 👋
 
-I'm Boris, a fullstack developer in the Netherlands. <br>
+I'm Boris, a fullstack developer. <br>
 Take a look at my [public repositories](https://github.com/borisnliscool?tab=repositories) to see some of the projects I've been working on.
 
-Check out my website [boris.foo](https://boris.foo/)
+Also check out my website [boris.foo](https://boris.foo/)
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=borisnliscool&theme=highcontrast&background=30%2CE96443%2C904E95&border=FFFFFF&sideLabels=FFFFFF&dates=EFEFEF&stroke=FFFFFF77)](https://git.io/streak-stats)
