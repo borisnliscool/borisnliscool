@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Boris, a fulltime web/backend developer. <br>
+I'm Boris, a web/backend developer. <br>
 Take a look at my [public repositories](https://github.com/borisnliscool?tab=repositories) to see some of the projects I've been working on.
 
 Also check out my awesome website [boris.foo](https://boris.foo/)
